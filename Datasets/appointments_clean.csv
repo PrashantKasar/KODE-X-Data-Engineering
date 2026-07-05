@@ -1,0 +1,11 @@
+,appt_id,patient_id,doctor_id,appt_date,diagnosis,fee,fee_category,day_of_week
+0,1,1,1,2024-01-10,Hypertension checkup,500,Medium,Wednesday
+1,2,2,5,2024-01-11,Fever and cold,200,Low,Thursday
+2,3,3,3,2024-01-12,Knee pain evaluation,750,High,Friday
+3,4,4,2,2024-01-13,Migraine treatment,600,Medium,Saturday
+4,5,5,4,2024-01-14,Acne treatment,300,Low,Sunday
+5,6,1,5,2024-01-15,Follow-up general checkup,200,Low,Monday
+6,7,6,1,2024-01-16,Cardiac stress test,900,High,Tuesday
+7,8,7,3,2024-01-17,Back pain physiotherapy,400,Medium,Wednesday
+8,9,8,5,2024-01-18,Routine vaccination,150,Low,Thursday
+9,10,2,2,2024-01-19,Epilepsy management,850,High,Friday

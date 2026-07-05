@@ -1,0 +1,9 @@
+patient_id,name,age,blood_type,city,age_group
+1,Raj Kumar,34,O+,Delhi,Adult
+2,Sneha Patel,39,A+,Mumbai,Adult
+3,Tom Williams,46,B-,Chicago,Adult
+4,Fatima Al-Sayed,29,AB+,Dubai,Young
+5,Liu Yang,24,O-,Beijing,Young
+6,Ana Gonzalez,56,A-,Madrid,Senior
+7,James Okafor,32,B+,Lagos,Adult
+8,Emily Carter,19,O+,Toronto,Young
