@@ -1,0 +1,11 @@
+,emp_id,name,dept,salary,years,city,salary_band,experience_band,budget,location
+0,1,Alice,Engineering,85000,5,New York,Senior,Experienced,1500000,New York
+1,2,Bob,Marketing,62000,3,Chicago,Junior,Fresher,800000,Chicago
+2,3,Carol,Engineering,92000,8,New York,Senior,Veteran,1500000,New York
+3,4,David,HR,55000,2,Dallas,Junior,Fresher,400000,Dallas
+4,5,Eva,Finance,78000,6,New York,Mid,Experienced,600000,New York
+5,6,Frank,Engineering,88000,7,Chicago,Senior,Veteran,1500000,New York
+6,7,Grace,Finance,67000,4,Dallas,Mid,Experienced,600000,New York
+7,8,Henry,HR,71000,5,New York,Mid,Experienced,400000,Dallas
+8,9,Ian,Marketing,58000,2,Chicago,Junior,Fresher,800000,Chicago
+9,10,Jane,Engineering,95000,9,New York,Senior,Veteran,1500000,New York
