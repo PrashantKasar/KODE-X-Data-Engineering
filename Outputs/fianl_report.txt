@@ -1,0 +1,43 @@
+
+Revenue by Specialty
+--------------------------------------
+Cardiology: 1400
+Dermatology: 300
+General Medicine: 550
+Neurology: 1450
+Orthopedics: 1150
+
+Busiest Doctor
+--------------------------------------
+Dr. Carlos Torres (3 appointments)
+
+Patient City Summary
+--------------------------------------
+         total_appointments  avg_fee
+city                                
+Beijing                   1    300.0
+Chicago                   1    750.0
+Delhi                     2    350.0
+Dubai                     1    600.0
+Lagos                     1    400.0
+Madrid                    1    900.0
+Mumbai                    2    525.0
+Toronto                   1    150.0
+
+Fee Trend by Day
+--------------------------------------
+day_of_week  total_fee
+     Monday        200
+    Tuesday        900
+  Wednesday        900
+   Thursday        350
+     Friday       1600
+   Saturday        600
+     Sunday        300
+
+Top Patients
+--------------------------------------
+patient_name
+Sneha Patel     1050
+Ana Gonzalez     900
+Tom Williams     750
